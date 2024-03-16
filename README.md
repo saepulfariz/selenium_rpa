@@ -5,7 +5,7 @@ https://rpachallenge.com/
 # How to install
 
 - Clone this project **`git clone https://github.com/saepulfariz/selenium_rpa.git`**.
-- Then go to the clone project **`cd selenium_rpa.git`**.
+- Then go to the clone project **`cd selenium_rpa`**.
 - Copy in terminal **`pip install -r requirements.txt`**
 - Then run **`python run.py`**
 - Automatic web tests.
